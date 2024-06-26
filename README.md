@@ -1,3 +1,3 @@
 # Test
 
-My first test repository
+The first test repository that I initiated 
